@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="main.css">
+</head>
+<body>
+  <table>
+    <tr>
+    <th></th>
+    <th>SEGUNDA</th>
+    <th>TERÇA</th>
+    <th>QUARTA</th>
+    <th>QUINTA</th>
+    <th>SEXTA</th>
+    </tr>
+    <tr>
+      <th>7:00</th>
+      <td>BIOLOGIA</td>
+      <td>MOBILE</td>
+      <td>HISTÓRIA</td>
+      <td>BANCO DE DADOS</td>
+      <td>GEOGRAFIA</td>
+    </tr>
+    <tr>
+      <th>7:50</th>
+      <td>HISTÓRIA</td>
+      <td>MOBILE</td>
+      <td>SOCIOLOGIA</td>
+      <td>GEOGRAFIA</td>
+      <td>PORTUGUÊS</td>
+    </tr>
+    <tr>
+      <th>8:40</th>
+      <td>MATEMÁTICA</td>
+      <td>PORTUGUÊS</td>
+      <td>PROJETO DE VIDA</td>
+      <td>CIÊNCIA DA COMPUTAÇÃO</td>
+      <td>MATEMÁTICA</td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+      <th>9:50</th>
+      <td>QUÍMICA</td>
+      <td>EDUCAÇÃO FINANCEIRA</td>
+      <td>BIOLOGIA</td>
+      <td>INGLÊS</td>
+      <td>BANCO DE DADOS</td>
+    </tr>
+    <tr>
+      <th>10:35</th>
+      <td>FRONT-END</td>
+      <td>SOCIOLOGIA</td>
+      <td>MATEMÁTICA</td>
+      <td>FRONT-END</td>
+      <td>ANALÍSE E PROJETO DE SISTEMAS</td>
+    </tr>
+    <tr>
+      <th>11:25</th>
+      <td>FRONT-END</td>
+      <td>ANALÍSE E PROJETO DE SISTEMAS</td>
+      <td>QUÍMICA</td>
+      <td>FRONT-END</td>
+      <td>CIÊNCIA DA COMPUTAÇÃO</td>
+    </tr>
+  </table>
+</body>
+</html>
